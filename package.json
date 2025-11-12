@@ -1,4 +1,8 @@
 {
+  "name": "nextjs-dashboard",
+  "author": {
+    "name": "Adler M Orteney"
+  },
   "private": true,
   "scripts": {
     "build": "next build",
